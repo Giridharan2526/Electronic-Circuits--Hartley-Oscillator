@@ -25,11 +25,13 @@ PC with LT Spice software
 16. To get the voltage across a component, the trace should represent both nodes (example: V(n001,n002)).
 
 ## THEORITICAL CALCULATION:
-![WhatsApp Image 2025-11-29 at 11 46 02_9e508838](https://github.com/user-attachments/assets/73953a7f-60b9-43ac-ae5a-29c7faa95bf5)
+<img width="1398" height="1600" alt="WhatsApp Image 2026-06-09 at 2 06 45 PM" src="https://github.com/user-attachments/assets/74cab265-0e2a-4d7a-b602-196240da959c" />
+
 
 ## OUTPUTS:
 <img width="1920" height="1140" alt="Screenshot 2025-11-26 122315" src="https://github.com/user-attachments/assets/c9918d42-db2c-4802-aa36-4ce4ffa2741c" />
 
 ## RESULT:
-![WhatsApp Image 2025-11-29 at 11 46 01_3250946d](https://github.com/user-attachments/assets/8091c058-bcd2-4afc-9126-aa12178814f9)
+<img width="1600" height="1201" alt="image" src="https://github.com/user-attachments/assets/27180be4-61c6-4312-ab5a-26a7570d536f" />
+
 
